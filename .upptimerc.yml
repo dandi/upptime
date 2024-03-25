@@ -3,29 +3,41 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # alphabetic order on name
+  - name: API (catch all)
+    url: https://api.dandiarchive.org/
+  - name: API (Swagger)
+    url: https://api.dandiarchive.org/swagger/
+  - name: API Staging (Swagger)
+    url: https://api-staging.dandiarchive.org/swagger/
+  - name: Data portal
+    url: https://dandiarchive.org/
+  - name: Data portal Staging
+    url: https://gui-staging.dandiarchive.org/
+  - name: GitHub organization
+    url: https://github.com/dandi
+  - name: Hub
+    url: https://hub.dandiarchive.org
+  - name: Ontobee
+    url: https://ontobee.org/
+  - name: PURL redirect example1 (ontobee)
+    url: http://purl.obolibrary.org/obo/PATO_0000384
+  - name: Registry of DataLad (dandisets query)
+    url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
+  - name: WebDAV
+    url: https://webdav.dandiarchive.org
+  - name: Website
+    url: https://www.dandiarchive.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: DANDI Upptime
+  introTitle: "DANDI Project and related services uptime."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/dandi/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
