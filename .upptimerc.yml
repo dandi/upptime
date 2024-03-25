@@ -18,6 +18,8 @@ sites:
     url: https://github.com/dandi
   - name: Hub
     url: https://hub.dandiarchive.org
+  - name: Neurosift
+    url: https://neurosift.app/
   - name: Ontobee
     url: https://ontobee.org/
   - name: PURL redirect example1 (ontobee)
