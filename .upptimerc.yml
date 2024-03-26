@@ -26,6 +26,8 @@ sites:
     url: https://gui-staging.dandiarchive.org/
   - name: ETelemetry server
     url: https://rig.mit.edu/et/
+    assignees:
+      - satra
   - name: GitHub organization
     url: https://github.com/dandi
   - name: Hub
