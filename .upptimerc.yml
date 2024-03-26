@@ -30,6 +30,10 @@ sites:
     url: https://github.com/dandi
   - name: Hub
     url: https://hub.dandiarchive.org
+  - name: Hub Staging
+    url: https://hub-staging.dandiarchive.org
+    assignees:
+      - asmacdo
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
