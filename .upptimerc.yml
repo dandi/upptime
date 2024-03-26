@@ -24,6 +24,8 @@ sites:
     url: https://dandiarchive.org/dandiset/000026/draft/files
   - name: Data portal Staging
     url: https://gui-staging.dandiarchive.org/
+  - name: ETelemetry server
+    url: https://rig.mit.edu/et/
   - name: GitHub organization
     url: https://github.com/dandi
   - name: Hub
