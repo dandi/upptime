@@ -6,12 +6,18 @@ sites:
   # alphabetic order on name
   - name: API (catch all)
     url: https://api.dandiarchive.org/
+    assignees:
+      - waxlamp
   - name: API (Swagger)
     url: https://api.dandiarchive.org/swagger/
+    assignees:
+      - waxlamp
   - name: API Staging (Swagger)
     url: https://api-staging.dandiarchive.org/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
+    assignees:
+      - waxlamp
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
   - name: Data portal (000026 draft file browsing)
@@ -24,6 +30,8 @@ sites:
     url: https://hub.dandiarchive.org
   - name: Neurosift
     url: https://neurosift.app/
+    assignees:
+      - magland
   - name: Ontobee
     url: https://ontobee.org/
   - name: PURL redirect example1 (ontobee)
@@ -32,6 +40,8 @@ sites:
     url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
   - name: WebDAV
     url: https://webdav.dandiarchive.org
+    assignees:
+      - jwodder
   - name: Website
     url: https://www.dandiarchive.org/
 
