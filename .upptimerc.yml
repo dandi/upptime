@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: dandi # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -50,10 +50,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   cname: www.dandiarchive.org
-  baseUrl: /uptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/dandi/artwork/master/pics/dandi-logo-square.svg
   name: DANDI Upptime
-  introTitle: "DANDI Project and related services uptime."
+  introTitle: "DANDI Project and related services upptime."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/dandi/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
