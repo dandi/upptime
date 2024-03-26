@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "74.88%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "74.88%",
-    "uptimeMonth": "74.88%",
-    "uptimeYear": "74.88%",
+    "uptime": "51.25%",
+    "uptimeDay": "51.25%",
+    "uptimeWeek": "51.25%",
+    "uptimeMonth": "51.25%",
+    "uptimeYear": "51.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 895,
+      "2024-03-26": 896,
       "2024-03-25": 551
     }
   },
