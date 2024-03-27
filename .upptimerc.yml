@@ -57,8 +57,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  cname: www.dandiarchive.org
-  baseUrl: /upptime
+  cname: www.dandiarchive.org/upptime
+  #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/dandi/artwork/master/pics/dandi-logo-square.svg
   name: DANDI Upptime
   introTitle: "DANDI Project and related services upptime."
