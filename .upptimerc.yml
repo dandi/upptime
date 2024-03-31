@@ -30,8 +30,10 @@ sites:
       - satra
   - name: GitHub organization
     url: https://github.com/dandi
-  - name: Hub
-    url: https://hub.dandiarchive.org
+  # Frequently 503s for some duration. @satra mentioned that it is "normal".
+  # Yet to figure out workaround. So disabled for now to reduce noice.
+  #- name: Hub
+  #  url: https://hub.dandiarchive.org
   - name: Hub Staging
     url: https://hub-staging.dandiarchive.org
     assignees:
