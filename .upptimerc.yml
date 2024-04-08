@@ -34,10 +34,11 @@ sites:
   # Yet to figure out workaround. So disabled for now to reduce noice.
   #- name: Hub
   #  url: https://hub.dandiarchive.org
-  - name: Hub Staging
-    url: https://hub-staging.dandiarchive.org
-    assignees:
-      - asmacdo
+  # To save money we take hub-staging down unless we are actively using it.
+  # - name: Hub Staging
+  #   url: https://hub-staging.dandiarchive.org
+  #   assignees:
+  #     - asmacdo
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
