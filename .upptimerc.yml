@@ -48,6 +48,7 @@ sites:
   - name: PURL redirect example1 (ontobee)
     url: http://purl.obolibrary.org/obo/PATO_0000384
     maxRedirects: 6
+    __dangerous__body_down_if_text_missing: '<Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001894">'
   - name: Registry of DataLad (dandisets query)
     url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
   - name: WebDAV
