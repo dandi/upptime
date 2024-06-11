@@ -1,7 +1,7 @@
 url: https://ontobee.org/
-status: up
-code: 200
-responseTime: 432
-lastUpdated: 2024-06-10T23:00:54.766Z
+status: down
+code: 500
+responseTime: 5381
+lastUpdated: 2024-06-11T21:54:40.107Z
 startTime: 2024-03-25T14:48:59.237Z
 generator: Upptime <https://github.com/upptime/upptime>
