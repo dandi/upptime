@@ -121,19 +121,19 @@
     "url": "https://gui-staging.dandiarchive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gui-staging.dandiarchive.org.ico",
     "slug": "data-portal-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 1734,
-    "timeWeek": 646,
-    "timeMonth": 365,
-    "timeYear": 263,
+    "time": 262,
+    "timeDay": 1192,
+    "timeWeek": 586,
+    "timeMonth": 357,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-08-03": 0
+      "2024-08-03": 8
     }
   },
   {
