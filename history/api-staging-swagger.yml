@@ -1,7 +1,7 @@
 url: https://api-staging.dandiarchive.org/swagger/
-status: down
-code: 503
-responseTime: 237
-lastUpdated: 2024-08-13T14:10:24.692Z
+status: up
+code: 200
+responseTime: 330
+lastUpdated: 2024-08-13T14:40:26.307Z
 startTime: 2024-03-25T14:48:54.735Z
 generator: Upptime <https://github.com/upptime/upptime>
