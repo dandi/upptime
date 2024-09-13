@@ -1,7 +1,7 @@
 url: https://dandiarchive.org/dandiset/000026
-status: up
-code: 200
-responseTime: 70
-lastUpdated: 2024-09-12T23:00:46.384Z
+status: down
+code: 500
+responseTime: 6
+lastUpdated: 2024-09-13T09:29:35.795Z
 startTime: 2024-03-26T15:01:12.850Z
 generator: Upptime <https://github.com/upptime/upptime>
