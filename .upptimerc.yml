@@ -51,6 +51,11 @@ sites:
     __dangerous__body_down_if_text_missing: '<Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001894">'
     assignees:
       - yongqunh
+  - name: identifiers.org redirect example1
+    url: https://identifiers.org/DANDI:000027
+    maxRedirects: 3
+    # We cannot test for reaching specific dandiset due to Vue/JS frontend
+    __dangerous__body_down_if_text_missing: 'DANDI Archive'
   - name: Registry of DataLad (dandisets query)
     url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
   - name: WebDAV
