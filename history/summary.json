@@ -244,19 +244,19 @@
     "url": "https://neurosift.app/",
     "icon": "https://icons.duckduckgo.com/ip3/neurosift.app.ico",
     "slug": "neurosift",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 91,
-    "timeWeek": 133,
-    "timeMonth": 153,
-    "timeYear": 138,
+    "time": 137,
+    "timeDay": 92,
+    "timeWeek": 128,
+    "timeMonth": 151,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 13
     }
   },
   {
