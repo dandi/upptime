@@ -18,6 +18,10 @@ sites:
     url: https://dandiarchive.org/
     assignees:
       - waxlamp
+  - name: Data portal redirect
+    url: https://www.dandiarchive.org/
+    assignees:
+      - kabilar    
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
   - name: Data portal (000026 draft file browsing)
@@ -32,11 +36,11 @@ sites:
     url: https://github.com/dandi
   - name: Hub
     url: https://hub.dandiarchive.org
+    assignees:
+      - asmacdo
   # To save money we take hub-staging down unless we are actively using it.
   # - name: Hub Staging
   #   url: https://hub-staging.dandiarchive.org
-  #   assignees:
-  #     - asmacdo
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
@@ -62,8 +66,14 @@ sites:
     url: https://webdav.dandiarchive.org
     assignees:
       - jwodder
-  - name: Website
-    url: https://www.dandiarchive.org/
+  - name: About
+    url: https://about.dandiarchive.org/
+    assignees:
+      - kabilar
+  - name: Docs
+    url: https://docs.dandiarchive.org/
+    assignees:
+      - kabilar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
