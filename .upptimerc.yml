@@ -21,7 +21,7 @@ sites:
   - name: Data portal redirect
     url: https://www.dandiarchive.org/
     assignees:
-      - kabilar    
+      - kabilar
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
   - name: Data portal (000026 draft file browsing)
@@ -38,9 +38,6 @@ sites:
     url: https://hub.dandiarchive.org
     assignees:
       - asmacdo
-  # To save money we take hub-staging down unless we are actively using it.
-  # - name: Hub Staging
-  #   url: https://hub-staging.dandiarchive.org
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
