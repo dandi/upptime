@@ -18,10 +18,6 @@ sites:
     url: https://dandiarchive.org/
     assignees:
       - waxlamp
-  - name: Data portal redirect
-    url: https://www.dandiarchive.org/
-    assignees:
-      - kabilar
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
   - name: Data portal (000026 draft file browsing)
