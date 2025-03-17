@@ -23,7 +23,7 @@ sites:
   - name: Data portal (000026 draft file browsing)
     url: https://dandiarchive.org/dandiset/000026/draft/files
   - name: Data portal sandbox
-    url: https://gui-sandbox.dandiarchive.org/
+    url: https://sandbox.dandiarchive.org/
   - name: ETelemetry server
     url: https://rig.mit.edu/et/
     assignees:
