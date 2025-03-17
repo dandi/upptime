@@ -12,8 +12,8 @@ sites:
     url: https://api.dandiarchive.org/swagger/
     assignees:
       - waxlamp
-  - name: API Staging (Swagger)
-    url: https://api-staging.dandiarchive.org/swagger/
+  - name: API sandbox (Swagger)
+    url: https://api-sandbox.dandiarchive.org/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
     assignees:
@@ -22,8 +22,8 @@ sites:
     url: https://dandiarchive.org/dandiset/000026
   - name: Data portal (000026 draft file browsing)
     url: https://dandiarchive.org/dandiset/000026/draft/files
-  - name: Data portal Staging
-    url: https://gui-staging.dandiarchive.org/
+  - name: Data portal sandbox
+    url: https://gui-sandbox.dandiarchive.org/
   - name: ETelemetry server
     url: https://rig.mit.edu/et/
     assignees:

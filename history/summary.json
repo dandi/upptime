@@ -53,10 +53,10 @@
     }
   },
   {
-    "name": "API Staging (Swagger)",
-    "url": "https://api-staging.dandiarchive.org/swagger/",
-    "icon": "https://icons.duckduckgo.com/ip3/api-staging.dandiarchive.org.ico",
-    "slug": "api-staging-swagger",
+    "name": "API sandbox (Swagger)",
+    "url": "https://api-sandbox.dandiarchive.org/swagger/",
+    "icon": "https://icons.duckduckgo.com/ip3/api-sandbox.dandiarchive.org.ico",
+    "slug": "api-sandbox-swagger",
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
@@ -146,10 +146,10 @@
     }
   },
   {
-    "name": "Data portal Staging",
-    "url": "https://gui-staging.dandiarchive.org/",
-    "icon": "https://icons.duckduckgo.com/ip3/gui-staging.dandiarchive.org.ico",
-    "slug": "data-portal-staging",
+    "name": "Data portal sandbox",
+    "url": "https://sandbox.dandiarchive.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/sandbox.dandiarchive.org.ico",
+    "slug": "data-portal-sandbox",
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
