@@ -1,7 +1,7 @@
 url: https://webdav.dandiarchive.org
-status: down
-code: 503
-responseTime: 339
-lastUpdated: 2025-03-19T11:37:04.698Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2025-03-19T11:45:26.883Z
 startTime: 2024-03-25T14:49:08.019Z
 generator: Upptime <https://github.com/upptime/upptime>
