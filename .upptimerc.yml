@@ -30,7 +30,7 @@ sites:
     expectStatus: 200
     assignees:
       - satra
-      - aaronkazer
+      - aaronkanzer
   - name: GitHub organization
     url: https://github.com/dandi
   - name: Hub
