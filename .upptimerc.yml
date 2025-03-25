@@ -26,6 +26,8 @@ sites:
     url: https://gui-staging.dandiarchive.org/
   - name: ETelemetry server
     url: https://etelemetry.dandiarchive.org/
+    method: GET
+    expectStatus: 200
     assignees:
       - satra
       - aaronkanzer
