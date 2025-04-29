@@ -170,8 +170,8 @@
     "slug": "e-telemetry-server",
     "status": "down",
     "uptime": "86.90%",
-    "uptimeDay": "27.54%",
-    "uptimeWeek": "3.93%",
+    "uptimeDay": "29.12%",
+    "uptimeWeek": "4.16%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "85.84%",
     "time": 328,
@@ -312,19 +312,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
-    "uptime": "95.94%",
-    "uptimeDay": "47.32%",
-    "uptimeWeek": "92.47%",
+    "status": "down",
+    "uptime": "95.96%",
+    "uptimeDay": "47.22%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "95.56%",
+    "uptimeYear": "95.57%",
     "time": 951,
     "timeDay": 365,
     "timeWeek": 502,
     "timeMonth": 461,
     "timeYear": 1017,
     "dailyMinutesDown": {
-      "2025-04-29": 401,
+      "2025-04-29": 402,
       "2025-04-28": 358,
       "2025-04-17": 8,
       "2025-03-20": 98,
@@ -392,7 +392,7 @@
       "2024-08-30": 1428,
       "2024-08-29": 289,
       "2024-08-19": 1261,
-      "2024-08-18": 890
+      "2024-08-18": 805
     }
   },
   {
@@ -400,9 +400,9 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "94.82%",
-    "uptimeDay": "47.60%",
+    "uptimeDay": "47.57%",
     "uptimeWeek": "92.39%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "94.33%",
@@ -493,8 +493,7 @@
       "2024-06-11": 12,
       "2024-06-01": 25,
       "2024-05-30": 7,
-      "2024-05-29": 49,
-      "2024-05-02": 10
+      "2024-05-29": 49
     }
   },
   {
@@ -569,7 +568,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdav.dandiarchive.org.ico",
     "slug": "web-dav",
     "status": "up",
-    "uptime": "86.53%",
+    "uptime": "86.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
