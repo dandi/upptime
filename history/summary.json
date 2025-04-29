@@ -170,9 +170,9 @@
     "slug": "e-telemetry-server",
     "status": "down",
     "uptime": "86.92%",
-    "uptimeDay": "84.38%",
-    "uptimeWeek": "12.05%",
-    "uptimeMonth": "0.87%",
+    "uptimeDay": "85.88%",
+    "uptimeWeek": "12.27%",
+    "uptimeMonth": "0.92%",
     "uptimeYear": "85.84%",
     "time": 328,
     "timeDay": 0,
@@ -313,11 +313,11 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
-    "uptime": "96.75%",
-    "uptimeDay": "13.16%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "96.79%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "14.51%",
+    "uptimeWeek": "86.09%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "96.44%",
     "time": 958,
     "timeDay": 1240,
@@ -325,7 +325,7 @@
     "timeMonth": 649,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-04-29": 1042,
+      "2025-04-29": 1044,
       "2025-04-28": 358,
       "2025-04-17": 8,
       "2025-03-20": 98,
@@ -388,7 +388,7 @@
       "2024-09-19": 1056,
       "2024-09-18": 49,
       "2024-09-07": 51,
-      "2024-09-06": 45
+      "2024-09-06": 8
     }
   },
   {
@@ -396,10 +396,10 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "94.73%",
-    "uptimeDay": "13.13%",
-    "uptimeWeek": "86.13%",
+    "uptimeDay": "14.58%",
+    "uptimeWeek": "86.12%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "94.22%",
     "time": 1310,
@@ -408,7 +408,7 @@
     "timeMonth": 1210,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2025-04-29": 1044,
+      "2025-04-29": 1045,
       "2025-04-28": 355,
       "2025-04-22": 12,
       "2025-04-17": 7,
@@ -486,8 +486,7 @@
       "2024-07-08": 375,
       "2024-06-29": 9,
       "2024-06-22": 9,
-      "2024-06-11": 12,
-      "2024-06-01": 9
+      "2024-06-11": 12
     }
   },
   {
