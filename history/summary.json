@@ -171,8 +171,8 @@
     "status": "down",
     "uptime": "86.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.64%",
-    "uptimeMonth": "2.15%",
+    "uptimeWeek": "17.75%",
+    "uptimeMonth": "2.18%",
     "uptimeYear": "85.84%",
     "time": 328,
     "timeDay": 0,
@@ -313,19 +313,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "24.07%",
-    "uptimeWeek": "82.08%",
+    "status": "down",
+    "uptime": "96.70%",
+    "uptimeDay": "24.72%",
+    "uptimeWeek": "82.07%",
     "uptimeMonth": "95.86%",
-    "uptimeYear": "96.37%",
+    "uptimeYear": "96.38%",
     "time": 972,
     "timeDay": 1770,
     "timeWeek": 1384,
     "timeMonth": 852,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-04-30": 217,
+      "2025-04-30": 218,
       "2025-04-29": 1231,
       "2025-04-28": 358,
       "2025-04-17": 8,
@@ -387,8 +387,7 @@
       "2024-09-21": 58,
       "2024-09-20": 225,
       "2024-09-19": 1056,
-      "2024-09-18": 49,
-      "2024-09-07": 43
+      "2024-09-18": 49
     }
   },
   {
@@ -396,10 +395,10 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "94.67%",
-    "uptimeDay": "24.24%",
-    "uptimeWeek": "82.13%",
+    "uptimeDay": "24.94%",
+    "uptimeWeek": "82.12%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "94.15%",
     "time": 1352,
@@ -408,7 +407,7 @@
     "timeMonth": 1699,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2025-04-30": 216,
+      "2025-04-30": 217,
       "2025-04-29": 1231,
       "2025-04-28": 355,
       "2025-04-22": 12,
@@ -484,8 +483,7 @@
       "2024-07-23": 7,
       "2024-07-12": 171,
       "2024-07-10": 380,
-      "2024-07-08": 375,
-      "2024-06-29": 9
+      "2024-07-08": 375
     }
   },
   {
