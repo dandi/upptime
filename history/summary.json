@@ -171,8 +171,8 @@
     "status": "down",
     "uptime": "87.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.78%",
-    "uptimeMonth": "13.99%",
+    "uptimeWeek": "55.10%",
+    "uptimeMonth": "14.06%",
     "uptimeYear": "85.84%",
     "time": 328,
     "timeDay": 0,
@@ -313,19 +313,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "97.50%",
-    "uptimeDay": "17.62%",
-    "uptimeWeek": "65.31%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "97.23%",
+    "uptimeDay": "18.92%",
+    "uptimeWeek": "65.29%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "97.24%",
     "time": 956,
     "timeDay": 462,
     "timeWeek": 942,
     "timeMonth": 756,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-05-02": 1022,
+      "2025-05-02": 1024,
       "2025-05-01": 185,
       "2025-04-30": 701,
       "2025-04-29": 1231,
@@ -371,8 +371,7 @@
       "2024-12-06": 702,
       "2024-11-24": 9,
       "2024-11-21": 25,
-      "2024-11-19": 11,
-      "2024-11-09": 9
+      "2024-11-19": 11
     }
   },
   {
@@ -380,12 +379,12 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
-    "uptime": "95.78%",
-    "uptimeDay": "18.49%",
+    "status": "down",
+    "uptime": "95.79%",
+    "uptimeDay": "19.78%",
     "uptimeWeek": "65.57%",
     "uptimeMonth": "92.03%",
-    "uptimeYear": "95.34%",
+    "uptimeYear": "95.35%",
     "time": 1347,
     "timeDay": 1150,
     "timeWeek": 1821,
@@ -456,8 +455,7 @@
       "2024-09-21": 1100,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 174,
-      "2024-09-07": 42
+      "2024-09-18": 174
     }
   },
   {
