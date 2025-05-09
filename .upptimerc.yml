@@ -41,16 +41,16 @@ sites:
     url: https://neurosift.app/
     assignees:
       - magland
-  - name: Ontobee
-    url: https://ontobee.org/
-    assignees:
-      - yongqunh
-  - name: PURL redirect example1 (ontobee)
-    url: http://purl.obolibrary.org/obo/PATO_0000384
-    maxRedirects: 6
-    __dangerous__body_down_if_text_missing: '<Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001894">'
-    assignees:
-      - yongqunh
+  # - name: Ontobee
+  #   url: https://ontobee.org/
+  #   assignees:
+  #     - yongqunh
+  # - name: PURL redirect example1 (ontobee)
+  #   url: http://purl.obolibrary.org/obo/PATO_0000384
+  #   maxRedirects: 6
+  #   __dangerous__body_down_if_text_missing: '<Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001894">'
+  #   assignees:
+  #     - yongqunh
   - name: identifiers.org redirect example1
     url: https://identifiers.org/DANDI:000027
     maxRedirects: 3
