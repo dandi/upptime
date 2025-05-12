@@ -1,6 +1,5 @@
-# Change these first
-owner: dandi # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dandi
+repo: upptime
 
 sites:
   # alphabetic order on name
@@ -88,9 +87,6 @@ sites:
       - kabilar
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   cname: status.dandiarchive.org
   logoUrl: https://raw.githubusercontent.com/dandi/artwork/master/pics/dandi-logo-square.svg
   name: DANDI Upptime
@@ -101,6 +97,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
