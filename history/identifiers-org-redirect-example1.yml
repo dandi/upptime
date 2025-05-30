@@ -1,7 +1,7 @@
 url: https://identifiers.org/DANDI:000027
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2025-05-29T23:00:52.924Z
+status: down
+code: 502
+responseTime: 228
+lastUpdated: 2025-05-30T11:00:29.006Z
 startTime: 2024-09-27T19:45:08.952Z
 generator: Upptime <https://github.com/upptime/upptime>
