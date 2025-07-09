@@ -276,11 +276,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.dandiarchive.org.ico",
     "slug": "hub",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.09%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "95.32%",
     "uptimeMonth": "62.97%",
-    "uptimeYear": "95.12%",
+    "uptimeYear": "95.13%",
     "time": 360,
     "timeDay": 361,
     "timeWeek": 343,
@@ -343,10 +343,10 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "93.90%",
     "uptimeYear": "96.32%",
     "time": 1012,
@@ -355,7 +355,7 @@
     "timeMonth": 566,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-07-09": 8,
+      "2025-07-09": 9,
       "2025-07-02": 13,
       "2025-06-30": 14,
       "2025-06-21": 8,
@@ -410,7 +410,7 @@
       "2025-01-22": 8,
       "2025-01-20": 11,
       "2025-01-11": 8,
-      "2025-01-07": 21
+      "2025-01-07": 13
     }
   },
   {
@@ -418,10 +418,10 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
+    "status": "down",
+    "uptime": "97.09%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "96.24%",
     "time": 1370,
@@ -491,8 +491,7 @@
       "2025-02-01": 15,
       "2025-01-31": 8,
       "2025-01-26": 8,
-      "2025-01-23": 435,
-      "2025-01-22": 13
+      "2025-01-23": 435
     }
   },
   {
@@ -571,7 +570,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdav.dandiarchive.org.ico",
     "slug": "web-dav",
     "status": "up",
-    "uptime": "88.56%",
+    "uptime": "88.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
