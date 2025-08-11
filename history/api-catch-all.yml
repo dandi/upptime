@@ -1,7 +1,7 @@
 url: https://api.dandiarchive.org/
-status: down
-code: 503
-responseTime: 356
-lastUpdated: 2025-08-11T18:18:23.699Z
+status: up
+code: 200
+responseTime: 1557
+lastUpdated: 2025-08-11T18:37:04.635Z
 startTime: 2024-03-25T14:48:53.402Z
 generator: Upptime <https://github.com/upptime/upptime>
