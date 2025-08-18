@@ -354,18 +354,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.54%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "96.55%",
-    "time": 1005,
+    "uptimeYear": "96.57%",
+    "time": 1006,
     "timeDay": 575,
     "timeWeek": 549,
     "timeMonth": 623,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2025-08-18": 1,
       "2025-08-17": 10,
       "2025-08-11": 37,
       "2025-08-08": 14,
@@ -423,7 +424,7 @@
       "2025-02-09": 460,
       "2025-02-08": 29,
       "2025-02-07": 307,
-      "2025-02-05": 180
+      "2025-02-05": 74
     }
   },
   {
@@ -431,18 +432,19 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "97.74%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "96.84%",
-    "time": 1379,
+    "time": 1380,
     "timeDay": 1282,
     "timeWeek": 1683,
     "timeMonth": 1313,
     "timeYear": 1394,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-08-17": 15,
       "2025-08-16": 37,
       "2025-08-11": 26,
@@ -505,8 +507,7 @@
       "2025-03-04": 12,
       "2025-03-01": 44,
       "2025-02-22": 8,
-      "2025-02-20": 196,
-      "2025-02-19": 11
+      "2025-02-20": 196
     }
   },
   {
