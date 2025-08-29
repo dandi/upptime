@@ -12,11 +12,8 @@ sites:
     url: https://api.dandiarchive.org/swagger/
     assignees:
       - waxlamp
-      - kabilar
-  - name: API Staging (Swagger)
-    url: https://api-staging.dandiarchive.org/swagger/
-    assignees:
-      - kabilar
+  - name: API sandbox (Swagger)
+    url: https://api.sandbox.dandiarchive.org/api/docs/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
     assignees:
@@ -28,12 +25,8 @@ sites:
       - kabilar
   - name: Data portal (000026 draft file browsing)
     url: https://dandiarchive.org/dandiset/000026/draft/files
-    assignees:
-      - kabilar
-  - name: Data portal Staging
-    url: https://gui-staging.dandiarchive.org/
-    assignees:
-      - kabilar
+  - name: Data portal sandbox
+    url: https://sandbox.dandiarchive.org/
   - name: ETelemetry server
     url: https://etelemetry.dandiarchive.org/
     method: GET
