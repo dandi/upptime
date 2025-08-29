@@ -61,7 +61,7 @@
   },
   {
     "name": "API sandbox (Swagger)",
-    "url": "https://api.sandbox.dandiarchive.org/swagger/",
+    "url": "https://api.sandbox.dandiarchive.org/api/docs/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.dandiarchive.org.ico",
     "slug": "api-sandbox-swagger",
     "status": "up",
