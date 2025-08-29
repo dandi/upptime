@@ -13,7 +13,7 @@ sites:
     assignees:
       - waxlamp
   - name: API sandbox (Swagger)
-    url: https://api.sandbox.dandiarchive.org/swagger/
+    url: https://api.sandbox.dandiarchive.org/api/docs/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
     assignees:
