@@ -1,7 +1,7 @@
 url: https://etelemetry.dandiarchive.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-28T23:00:47.080Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2025-08-29T22:08:33.183Z
 startTime: 2024-03-26T17:00:06.662Z
 generator: Upptime <https://github.com/upptime/upptime>
