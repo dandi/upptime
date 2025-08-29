@@ -1,6 +1,5 @@
-# Change these first
-owner: dandi # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dandi
+repo: upptime
 
 sites:
   # alphabetic order on name
@@ -8,36 +7,47 @@ sites:
     url: https://api.dandiarchive.org/
     assignees:
       - waxlamp
+      - kabilar
   - name: API (Swagger)
     url: https://api.dandiarchive.org/swagger/
     assignees:
       - waxlamp
   - name: API sandbox (Swagger)
-    url: https://api-sandbox.dandiarchive.org/swagger/
+    url: https://api.sandbox.dandiarchive.org/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
     assignees:
       - waxlamp
+      - kabilar
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
+    assignees:
+      - kabilar
   - name: Data portal (000026 draft file browsing)
     url: https://dandiarchive.org/dandiset/000026/draft/files
   - name: Data portal sandbox
     url: https://sandbox.dandiarchive.org/
   - name: ETelemetry server
-    url: https://rig.mit.edu/et/
+    url: https://etelemetry.dandiarchive.org/
+    method: GET
+    expectStatus: 200
     assignees:
       - satra
+      - aaronkanzer
   - name: GitHub organization
     url: https://github.com/dandi
+    assignees:
+      - kabilar
   - name: Hub
     url: https://hub.dandiarchive.org
     assignees:
       - asmacdo
+      - kabilar
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
       - magland
+      - kabilar
   - name: Ontobee
     url: https://ontobee.org/
     assignees:
@@ -59,6 +69,7 @@ sites:
     url: https://webdav.dandiarchive.org
     assignees:
       - jwodder
+      - kabilar
   - name: About
     url: https://about.dandiarchive.org/
     assignees:
@@ -69,19 +80,17 @@ sites:
       - kabilar
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   cname: status.dandiarchive.org
   logoUrl: https://raw.githubusercontent.com/dandi/artwork/master/pics/dandi-logo-square.svg
-  name: DANDI Upptime
-  introTitle: "DANDI Project and related services upptime."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/dandi/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: DANDI Status
+  introTitle: "Status page for the DANDI project and related services."
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/dandi/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  responseTime: "12 23 * * *"
+  uptime: "*/30 * * * *"
