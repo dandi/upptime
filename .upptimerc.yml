@@ -28,7 +28,7 @@ sites:
   - name: Data portal sandbox
     url: https://sandbox.dandiarchive.org/
   - name: ETelemetry server
-    url: https://etelemetry.dandiarchive.org/
+    url: https://rig.mit.edu/
     method: GET
     expectStatus: 200
     assignees:
