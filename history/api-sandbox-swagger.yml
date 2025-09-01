@@ -1,7 +1,7 @@
 url: https://api.sandbox.dandiarchive.org/api/docs/swagger/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-01T21:01:00.218Z
+status: up
+code: 200
+responseTime: 360
+lastUpdated: 2025-09-01T21:10:28.897Z
 startTime: 2024-03-25T14:48:54.735Z
 generator: Upptime <https://github.com/upptime/upptime>
