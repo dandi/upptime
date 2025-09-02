@@ -7,7 +7,6 @@ sites:
     url: https://api.dandiarchive.org/
     assignees:
       - waxlamp
-      - kabilar
   - name: API (Swagger)
     url: https://api.dandiarchive.org/swagger/
     assignees:
@@ -18,11 +17,8 @@ sites:
     url: https://dandiarchive.org/
     assignees:
       - waxlamp
-      - kabilar
   - name: Data portal (000026 DLP)
     url: https://dandiarchive.org/dandiset/000026
-    assignees:
-      - kabilar
   - name: Data portal (000026 draft file browsing)
     url: https://dandiarchive.org/dandiset/000026/draft/files
   - name: Data portal sandbox
@@ -36,18 +32,14 @@ sites:
       - aaronkanzer
   - name: GitHub organization
     url: https://github.com/dandi
-    assignees:
-      - kabilar
   - name: Hub
     url: https://hub.dandiarchive.org
     assignees:
       - asmacdo
-      - kabilar
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
       - magland
-      - kabilar
   - name: Ontobee
     url: https://ontobee.org/
     assignees:
@@ -69,15 +61,10 @@ sites:
     url: https://webdav.dandiarchive.org
     assignees:
       - jwodder
-      - kabilar
   - name: About
     url: https://about.dandiarchive.org/
-    assignees:
-      - kabilar
   - name: Docs
     url: https://docs.dandiarchive.org/
-    assignees:
-      - kabilar
 
 status-website:
   cname: status.dandiarchive.org
