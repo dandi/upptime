@@ -12,7 +12,7 @@ sites:
     assignees:
       - waxlamp
   - name: API sandbox (Swagger)
-    url: https://api.sandbox.dandiarchive.org/swagger/
+    url: https://api.sandbox.dandiarchive.org/api/docs/swagger/
   - name: Data portal
     url: https://dandiarchive.org/
     assignees:
@@ -24,7 +24,7 @@ sites:
   - name: Data portal sandbox
     url: https://sandbox.dandiarchive.org/
   - name: ETelemetry server
-    url: https://etelemetry.dandiarchive.org/
+    url: https://rig.mit.edu/
     method: GET
     expectStatus: 200
     assignees:
