@@ -1,7 +1,7 @@
 url: http://purl.obolibrary.org/obo/PATO_0000384
-status: down
-code: 500
-responseTime: 1149
-lastUpdated: 2025-09-03T02:35:14.347Z
+status: up
+code: 200
+responseTime: 1439
+lastUpdated: 2025-09-03T03:00:19.741Z
 startTime: 2024-03-25T14:49:01.277Z
 generator: Upptime <https://github.com/upptime/upptime>
