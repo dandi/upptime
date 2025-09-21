@@ -169,19 +169,19 @@
     "url": "https://sandbox.dandiarchive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.dandiarchive.org.ico",
     "slug": "data-portal-sandbox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 215,
-    "timeWeek": 415,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "time": 373,
+    "timeDay": 348,
+    "timeWeek": 423,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-09-21": 0
+      "2025-09-21": 13
     }
   },
   {
