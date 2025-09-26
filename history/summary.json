@@ -451,16 +451,16 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "96.90%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "99.74%",
-    "time": 1401,
-    "timeDay": 2229,
-    "timeWeek": 1570,
-    "timeMonth": 1489,
+    "time": 1400,
+    "timeDay": 2103,
+    "timeWeek": 1562,
+    "timeMonth": 1488,
     "timeYear": 1398,
     "dailyMinutesDown": {
       "2025-09-26": 33,
@@ -490,7 +490,7 @@
       "2025-08-31": 30,
       "2025-08-30": 24,
       "2025-08-29": 9,
-      "2025-08-28": 26
+      "2025-08-28": 18
     }
   },
   {
@@ -573,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdav.dandiarchive.org.ico",
     "slug": "web-dav",
     "status": "up",
-    "uptime": "90.17%",
+    "uptime": "90.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
