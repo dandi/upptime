@@ -454,19 +454,19 @@
     "url": "http://purl.obolibrary.org/obo/PATO_0000384",
     "icon": "https://icons.duckduckgo.com/ip3/purl.obolibrary.org.ico",
     "slug": "purl-redirect-example1-ontobee",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "96.97%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "99.75%",
     "time": 1429,
-    "timeDay": 2378,
-    "timeWeek": 2058,
-    "timeMonth": 1621,
+    "timeDay": 2443,
+    "timeWeek": 2044,
+    "timeMonth": 1620,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2025-10-02": 8,
+      "2025-10-02": 9,
       "2025-10-01": 38,
       "2025-09-30": 49,
       "2025-09-29": 20,
@@ -493,7 +493,7 @@
       "2025-09-06": 25,
       "2025-09-05": 97,
       "2025-09-04": 63,
-      "2025-09-03": 95
+      "2025-09-03": 75
     }
   },
   {
