@@ -384,19 +384,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.89%",
     "time": 988,
-    "timeDay": 360,
-    "timeWeek": 430,
-    "timeMonth": 486,
-    "timeYear": 951,
+    "timeDay": 344,
+    "timeWeek": 420,
+    "timeMonth": 483,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-10-14": 15,
+      "2025-10-14": 16,
       "2025-10-12": 12,
       "2025-10-10": 27,
       "2025-10-06": 14,
@@ -451,7 +451,7 @@
       "2025-05-29": 10,
       "2025-05-26": 1009,
       "2025-05-25": 719,
-      "2025-05-24": 56
+      "2025-05-24": 48
     }
   },
   {
