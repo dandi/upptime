@@ -187,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "90.27%",
+    "uptime": "90.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.26%",
@@ -389,18 +389,19 @@
     "url": "https://ontobee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ontobee.org.ico",
     "slug": "ontobee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.09%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.08%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.73%",
-    "time": 1073,
+    "time": 1074,
     "timeDay": 807,
     "timeWeek": 2491,
     "timeMonth": 1242,
     "timeYear": 1014,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-04": 62,
       "2025-11-03": 62,
       "2025-11-02": 84,
@@ -441,7 +442,7 @@
       "2025-08-22": 16,
       "2025-08-18": 171,
       "2025-08-17": 10,
-      "2025-08-11": 37
+      "2025-08-11": 28
     }
   },
   {
