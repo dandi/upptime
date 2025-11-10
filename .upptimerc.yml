@@ -40,11 +40,11 @@ sites:
     url: https://neurosift.app/
     assignees:
       - magland
-  - name: Ontobee
-    url: https://ontobee.org/
-    assignees:
-      - yongqunh
 # Disabling this check since too many false positives
+#  - name: Ontobee
+#    url: https://ontobee.org/
+#    assignees:
+#      - yongqunh
 #  - name: PURL redirect example1 (ontobee)
 #    url: http://purl.obolibrary.org/obo/PATO_0000384
 #    maxRedirects: 6
