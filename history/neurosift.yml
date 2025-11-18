@@ -1,7 +1,7 @@
 url: https://neurosift.app/
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2025-11-18T12:15:25.839Z
+status: down
+code: 500
+responseTime: 161
+lastUpdated: 2025-11-18T13:19:35.473Z
 startTime: 2024-03-25T20:58:46.483Z
 generator: Upptime <https://github.com/upptime/upptime>
