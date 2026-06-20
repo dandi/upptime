@@ -387,7 +387,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.59%",
     "time": 378,
     "timeDay": 631,
     "timeWeek": 422,
@@ -536,17 +536,17 @@
     "url": "https://webdav.dandiarchive.org",
     "icon": "https://icons.duckduckgo.com/ip3/webdav.dandiarchive.org.ico",
     "slug": "web-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "93.33%",
-    "uptimeDay": "58.10%",
+    "uptimeDay": "58.06%",
     "uptimeWeek": "94.01%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.82%",
-    "time": 335,
-    "timeDay": 3101,
-    "timeWeek": 2522,
-    "timeMonth": 1285,
-    "timeYear": 362,
+    "time": 342,
+    "timeDay": 3170,
+    "timeWeek": 2606,
+    "timeMonth": 1352,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-07-01": 54,
       "2025-08-15": 9,
@@ -561,7 +561,7 @@
       "2025-09-03": 9,
       "2025-09-05": 20,
       "2026-06-19": 338,
-      "2026-06-20": 266
+      "2026-06-20": 267
     }
   },
   {
