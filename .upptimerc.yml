@@ -31,10 +31,6 @@ sites:
       - satra
   - name: GitHub organization
     url: https://github.com/dandi
-  - name: Hub
-    url: https://hub.dandiarchive.org
-    assignees:
-      - asmacdo
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
