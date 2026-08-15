@@ -53,10 +53,10 @@ sites:
     __dangerous__body_down_if_text_missing: 'DANDI Archive'
   - name: Registry of DataLad (dandisets query)
     url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
-  - name: WebDAV
-    url: https://webdav.dandiarchive.org
-    assignees:
-      - jwodder
+#  - name: WebDAV
+#    url: https://webdav.dandiarchive.org
+#    assignees:
+#      - jwodder
   - name: About
     url: https://about.dandiarchive.org/
   - name: Docs
