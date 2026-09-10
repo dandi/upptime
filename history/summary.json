@@ -13,7 +13,7 @@
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 459,
+    "timeMonth": 464,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-06-10": 82
@@ -33,8 +33,8 @@
     "time": 223,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 257,
-    "timeYear": 214,
+    "timeMonth": 251,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2026-01-08": 8,
       "2026-05-20": 56,
@@ -55,7 +55,7 @@
     "time": 343,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 300,
+    "timeMonth": 297,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -73,7 +73,7 @@
     "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 275,
+    "timeMonth": 287,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-11-27": 14,
@@ -96,7 +96,7 @@
     "time": 70,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 275,
+    "timeMonth": 279,
     "timeYear": 86,
     "dailyMinutesDown": {
       "2025-11-27": 14,
@@ -118,7 +118,7 @@
     "time": 97,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 125,
+    "timeMonth": 130,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-10-04": 8,
@@ -141,8 +141,8 @@
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "timeMonth": 427,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2025-09-21": 13,
       "2025-11-27": 13,
@@ -158,7 +158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "77.16%",
+    "uptime": "77.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -166,8 +166,8 @@
     "time": 1111,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 282,
-    "timeYear": 1150,
+    "timeMonth": 271,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-10-23": 1071,
       "2025-10-22": 1440,
@@ -333,7 +333,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-organization",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -341,8 +341,8 @@
     "time": 885,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 636,
-    "timeYear": 894,
+    "timeMonth": 635,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -362,7 +362,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/neurosift.app.ico",
     "slug": "neurosift",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -370,7 +370,7 @@
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-09-17": 10,
@@ -397,7 +397,7 @@
     "time": 661,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 522,
+    "timeMonth": 524,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2025-10-14": 29,
@@ -422,8 +422,8 @@
     "time": 816,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 837,
-    "timeYear": 908,
+    "timeMonth": 833,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-09-25": 44,
       "2025-09-26": 442,
@@ -460,8 +460,8 @@
     "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 194,
-    "timeYear": 203,
+    "timeMonth": 198,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -478,7 +478,7 @@
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 213,
+    "timeMonth": 216,
     "timeYear": 196,
     "dailyMinutesDown": {}
   }
