@@ -13,7 +13,7 @@
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 289,
+    "timeMonth": 240,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2026-06-10": 82
@@ -33,7 +33,7 @@
     "time": 223,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 214,
+    "timeMonth": 158,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2026-01-08": 8,
@@ -55,8 +55,8 @@
     "time": 343,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 268,
-    "timeYear": 345,
+    "timeMonth": 256,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
     "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 434,
+    "timeMonth": 478,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-27": 14,
@@ -96,7 +96,7 @@
     "time": 70,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 515,
+    "timeMonth": 561,
     "timeYear": 87,
     "dailyMinutesDown": {
       "2025-11-27": 14,
@@ -118,7 +118,7 @@
     "time": 97,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 118,
+    "timeMonth": 115,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-10-04": 8,
@@ -141,7 +141,7 @@
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 511,
+    "timeMonth": 570,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2025-11-27": 13,
@@ -157,7 +157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "77.56%",
+    "uptime": "77.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,8 +165,8 @@
     "time": 1111,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 287,
-    "timeYear": 1211,
+    "timeMonth": 258,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-10-23": 1071,
       "2025-10-22": 1440,
@@ -340,7 +340,7 @@
     "time": 885,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 532,
+    "timeMonth": 551,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2025-12-11": 38,
@@ -369,7 +369,7 @@
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 182,
+    "timeMonth": 180,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-10-09": 12,
@@ -395,8 +395,8 @@
     "time": 661,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 615,
-    "timeYear": 733,
+    "timeMonth": 601,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-10-14": 29,
       "2025-11-27": 13,
@@ -416,14 +416,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 853,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 691,
-    "timeYear": 921,
+    "timeMonth": 655,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2025-09-26": 442,
       "2025-10-01": 9,
       "2025-10-02": 9,
       "2025-10-14": 38,
@@ -457,8 +456,8 @@
     "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 199,
-    "timeYear": 202,
+    "timeMonth": 179,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -475,7 +474,7 @@
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 243,
+    "timeMonth": 210,
     "timeYear": 194,
     "dailyMinutesDown": {}
   }
