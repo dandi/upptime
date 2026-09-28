@@ -56,7 +56,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 251,
-    "timeYear": 345,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -157,7 +157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "77.61%",
+    "uptime": "77.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -166,7 +166,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 202,
-    "timeYear": 1218,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-10-23": 1071,
       "2025-10-22": 1440,
@@ -341,7 +341,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 597,
-    "timeYear": 906,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -370,7 +370,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 189,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2025-10-09": 12,
       "2025-10-20": 58,
