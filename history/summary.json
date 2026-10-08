@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 382,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2026-06-10": 82
     }
@@ -56,7 +56,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 344,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   },
   {
@@ -141,7 +141,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 416,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-11-27": 13,
       "2026-01-18": 14,
@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "77.85%",
+    "uptime": "77.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,7 +165,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1261,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2025-10-23": 1071,
       "2025-10-22": 1440,
@@ -340,7 +340,7 @@
     "timeDay": 0,
     "timeWeek": 381,
     "timeMonth": 381,
-    "timeYear": 911,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -396,7 +396,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 743,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-10-14": 29,
       "2025-11-27": 13,
@@ -413,15 +413,15 @@
     "slug": "registry-of-data-lad-dandisets-query",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "92.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.38%",
     "time": 916,
-    "timeDay": 15298,
+    "timeDay": 0,
     "timeWeek": 15298,
     "timeMonth": 15298,
-    "timeYear": 964,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2025-10-14": 38,
       "2025-12-17": 19,
