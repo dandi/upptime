@@ -34,7 +34,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2026-01-08": 8,
       "2026-05-20": 56,
@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "77.94%",
+    "uptime": "77.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,7 +165,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1275,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2025-10-23": 1071,
       "2025-10-22": 1440,
@@ -330,17 +330,17 @@
     "url": "https://github.com/dandi",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-organization",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
-    "time": 898,
-    "timeDay": 4189,
-    "timeWeek": 2305,
-    "timeMonth": 1664,
-    "timeYear": 930,
+    "time": 897,
+    "timeDay": 2820,
+    "timeWeek": 1860,
+    "timeMonth": 1438,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -372,7 +372,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 230,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2025-10-20": 58,
       "2025-10-23": 15,
@@ -397,7 +397,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-10-14": 29,
       "2025-11-27": 13,
@@ -422,7 +422,7 @@
     "timeDay": 0,
     "timeWeek": 15298,
     "timeMonth": 15298,
-    "timeYear": 967,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2025-10-14": 38,
       "2025-12-17": 19,
@@ -475,7 +475,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 194,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
