@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "78.09%",
+    "uptime": "78.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -412,13 +412,13 @@
     "url": "https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22",
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-of-data-lad-dandisets-query",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.37%",
-    "time": 968,
+    "time": 969,
     "timeDay": 11701,
     "timeWeek": 6544,
     "timeMonth": 9462,
@@ -441,7 +441,8 @@
       "2026-10-06": 109,
       "2026-10-13": 33,
       "2026-10-14": 6,
-      "2026-10-16": 31
+      "2026-10-16": 31,
+      "2026-10-17": 0
     }
   },
   {
