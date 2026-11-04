@@ -1,7 +1,7 @@
 url: https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22
-status: down
-code: 502
-responseTime: 30255
-lastUpdated: 2026-11-04T16:59:39.626Z
+status: up
+code: 200
+responseTime: 829
+lastUpdated: 2026-11-04T17:10:33.884Z
 startTime: 2024-03-25T14:49:06.947Z
 generator: Upptime <https://github.com/upptime/upptime>
