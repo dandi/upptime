@@ -402,17 +402,17 @@
     "url": "https://registry.datalad.org/overview/?query=url%3A%22github.com%2Fdandisets%22",
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-of-data-lad-dandisets-query",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.26%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.34%",
-    "time": 1428,
-    "timeDay": 30285,
-    "timeWeek": 20402,
-    "timeMonth": 12100,
-    "timeYear": 1663,
+    "time": 1427,
+    "timeDay": 15455,
+    "timeWeek": 15458,
+    "timeMonth": 11622,
+    "timeYear": 1660,
     "dailyMinutesDown": {
       "2025-12-17": 19,
       "2026-03-29": 1314,
@@ -440,7 +440,7 @@
       "2026-10-25": 10,
       "2026-10-28": 21,
       "2026-11-01": 7,
-      "2026-11-04": 1
+      "2026-11-04": 10
     }
   },
   {
