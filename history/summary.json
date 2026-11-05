@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 378,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2026-06-10": 82
     }
@@ -34,7 +34,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 239,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2026-01-08": 8,
       "2026-05-20": 56,
@@ -56,7 +56,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 349,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "78.52%",
+    "uptime": "78.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,7 +165,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1132,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-03-22": 1078,
       "2026-03-21": 1440,
@@ -334,7 +334,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1507,
-    "timeYear": 952,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -367,7 +367,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2026-02-19": 15
@@ -388,7 +388,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 759,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-11-27": 13,
       "2025-11-28": 51,
@@ -412,7 +412,7 @@
     "timeDay": 14057,
     "timeWeek": 14312,
     "timeMonth": 12082,
-    "timeYear": 1902,
+    "timeYear": 1906,
     "dailyMinutesDown": {
       "2025-12-17": 19,
       "2026-03-29": 1314,
@@ -476,7 +476,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
