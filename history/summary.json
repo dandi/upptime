@@ -30,7 +30,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 223,
+    "time": 206,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -56,7 +56,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 350,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -93,7 +93,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 70,
+    "time": 81,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 97,
+    "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 79,
+    "timeYear": 80,
     "dailyMinutesDown": {
       "2025-11-27": 14,
       "2026-01-18": 14,
@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "78.54%",
+    "uptime": "78.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,7 +165,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1137,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-03-22": 1078,
       "2026-03-21": 1440,
@@ -303,7 +303,6 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 861,
       "2026-07-01": 1022,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -368,7 +367,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 228,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2026-02-19": 15
@@ -389,7 +388,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 760,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2025-11-27": 13,
       "2025-11-28": 51,
@@ -405,15 +404,15 @@
     "slug": "registry-of-data-lad-dandisets-query",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "94.62%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.32%",
     "time": 1692,
-    "timeDay": 12056,
+    "timeDay": 15473,
     "timeWeek": 14491,
     "timeMonth": 12287,
-    "timeYear": 1983,
+    "timeYear": 1987,
     "dailyMinutesDown": {
       "2025-12-17": 19,
       "2026-03-29": 1314,
@@ -478,7 +477,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 197,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   }
 ]
