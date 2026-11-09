@@ -320,17 +320,17 @@
     "url": "https://github.com/dandi",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-organization",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "93.04%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.91%",
-    "time": 981,
-    "timeDay": 3949,
-    "timeWeek": 4250,
-    "timeMonth": 3409,
-    "timeYear": 1064,
+    "time": 1001,
+    "timeDay": 4619,
+    "timeWeek": 4783,
+    "timeMonth": 3812,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -348,7 +348,7 @@
       "2026-10-14": 13,
       "2026-11-05": 17,
       "2026-11-08": 82,
-      "2026-11-09": 18
+      "2026-11-09": 19
     }
   },
   {
