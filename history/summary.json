@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 381,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2026-06-10": 82
     }
@@ -56,7 +56,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 350,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -141,7 +141,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 420,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-11-27": 13,
       "2026-01-18": 14,
@@ -156,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rig.mit.edu.ico",
     "slug": "e-telemetry-server",
     "status": "up",
-    "uptime": "78.73%",
+    "uptime": "78.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.71%",
+    "uptimeYear": "61.98%",
     "time": 1111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 698,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-03-22": 1078,
       "2026-03-21": 1440,
@@ -294,7 +294,6 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
       "2026-07-01": 1022,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -319,13 +318,13 @@
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.59%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.90%",
     "time": 999,
     "timeDay": 0,
     "timeWeek": 3901,
-    "timeMonth": 3704,
-    "timeYear": 1095,
+    "timeMonth": 4144,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-12-11": 38,
       "2025-12-15": 14,
@@ -382,7 +381,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-11-27": 13,
       "2025-11-28": 51,
@@ -400,13 +399,13 @@
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.88%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.28%",
     "time": 1884,
     "timeDay": 0,
     "timeWeek": 15409,
-    "timeMonth": 12918,
-    "timeYear": 2252,
+    "timeMonth": 13273,
+    "timeYear": 2258,
     "dailyMinutesDown": {
       "2025-12-17": 19,
       "2026-03-29": 1314,
@@ -472,7 +471,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
